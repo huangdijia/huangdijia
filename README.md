@@ -11,10 +11,10 @@ huangdijia/huangdijia is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/huangdijia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huangdijia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Deeka Wong's github stats" /></a>
- 
-<a href="https://github.com/huangdijia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangdijia&layout=compact&theme=buefy&hide_border=true" /></a>
-  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=huangdijia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Deeka Wong's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangdijia&layout=compact&theme=buefy&hide_border=true" />
+
 ![Deeka GitHub Stats](https://github-readme-stats.vercel.app/api?username=huangdijia&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true&show_icons=true)  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huangdijia&theme=prussian)
